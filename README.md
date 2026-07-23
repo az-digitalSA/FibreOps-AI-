@@ -1,2 +1,13 @@
-# FibreOps-AI-
-The goal isn't just to automate tickets—it's to encode your team's operational knowledge so the AI can assist with consistent, explainable decisions.
+# FibreOps AI Knowledge Base
+
+This directory contains the operational knowledge used by the FibreOps AI Copilot.
+
+The documents in this folder describe:
+
+- Escalation procedures
+- FNO-specific processes
+- Troubleshooting guides
+- Company policies
+- Ticket handling standards
+
+The AI assistant will use these documents to make consistent, explainable recommendations.

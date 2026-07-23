@@ -1,1 +1,36 @@
+# Loss of Signal (LOS)
 
+## Identification
+
+A LOS fault exists when...
+
+## Customer Symptoms
+
+- No connectivity
+- Red LOS LED
+- Router offline
+
+## Required Checks
+
+- ONT reboot
+- Router bypass
+- Fibre inspection
+
+## Evidence Required
+
+- ONT Serial
+- Photos
+- Optical power
+- Technician notes
+
+## Escalate When
+
+...
+
+## Do Not Escalate When
+
+...
+
+## Expected FNO Response
+
+...
